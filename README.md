@@ -9,19 +9,19 @@
 
 ###$	sudo apt-get update
 
-![](1.1.jpg)
+![image](http://a3.qpic.cn/psb?/V11Pgt1G3j6NhZ/JbP4uV7TPipUgMYGZUiIZQ0FR6aAypYugcJF5p78iBE!/b/dPgAAAAAAAAA&bo=JgEnAAAAAAAFByQ!&rf=viewer_4)
 
 ###$	sudo apt-get install ant
 
-![](1.2.jpg)
+![image](http://a3.qpic.cn/psb?/V11Pgt1G3j6NhZ/uZHasXMYBJAg0GJMaKCHGTpk1Sf6*2an3q8blDkaVh4!/b/dK0AAAAAAAAA&bo=QgJtAAAAAAAFAA4!&rf=viewer_4)
 
 ###$ 	sudo apt-get install openjdk-7-jdk
 
-![](1.3.jpg)
+![image](http://a3.qpic.cn/psb?/V11Pgt1G3j6NhZ/j1jwiWXS6yZZBmnT1w1e3C3gnCxu43Eb.PHDg*yWzJQ!/b/dLAAAAAAAAAA&bo=RwJrAAAAAAAFAA0!&rf=viewer_4)
 
 ###$	sudo apt-get install unzip
 
-![](1.4.jpg)
+![image](http://a2.qpic.cn/psb?/V11Pgt1G3j6NhZ/jZlbXfKipzpKYdJMpqKs7S1MM2qk25yz94VDjZNgWzg!/b/dAABAAAAAAAA&bo=UQJvAAAAAAAFAB8!&rf=viewer_4)
 
 
 ##2.下载文件
@@ -64,29 +64,29 @@
 ###$	../configure CXX=g++ --disable-async-updates
 
 
-![](3.1.jpg)
+![image](http://a2.qpic.cn/psb?/V11Pgt1G3j6NhZ/07wBUk6aPc5yqB.MEJsOqfzgqTA*6iZJdLtHEqUbUNs!/b/dLIAAAAAAAAA&bo=ygJLAAAAAAAFAKA!&rf=viewer_4)
 
-![](3.2.jpg)
+![image](http://a3.qpic.cn/psb?/V11Pgt1G3j6NhZ/2rqNA3nBpxuT1DJlRoJu0lf.lAJzmT4wZgK80*0.nww!/b/dPsAAAAAAAAA&bo=dALuAAAAAAAFALs!&rf=viewer_4)
 
 ##5.编译systemc
 
 ###$	sudo make install
 
-![](4.1.jpg)
+![image](http://a1.qpic.cn/psb?/V11Pgt1G3j6NhZ/q2MwWHupiyZwIH7KOJ*.FAVB0kMoLa2MUrkEDt7MCdg!/b/dLEAAAAAAAAA&bo=agJgAAAAAAAFACs!&rf=viewer_4)
 
 
 ##6.记录当前的工作路径
 ###$	pwd
 
-![](5.1.jpg)
+![image](http://a3.qpic.cn/psb?/V11Pgt1G3j6NhZ/Db7m7*qWhb9VWllQ93yMRTJ76IFNxuHsHmuw60VjjxY!/b/dKoAAAAAAAAA&bo=2QEiAAAAAAAFANk!&rf=viewer_4)
 
 ##7.编译dol
 
 ###$	ant -f build_zip.xml all
 
-![](7.1.jpg)
+![image](http://a1.qpic.cn/psb?/V11Pgt1G3j6NhZ/gtj6NEMtmZKEFkRd5dd8687ip7jnd.5b6FrvM.dKGdw!/b/dLEAAAAAAAAA&bo=WwISAAAAAAAFAGg!&rf=viewer_4)
 
-![](7.2.jpg)
+![image](http://a1.qpic.cn/psb?/V11Pgt1G3j6NhZ/RfVnuzU0sbHc5uZ7seSlGomOGV2an8z2EAO4WaYnxH0!/b/dLEAAAAAAAAA&bo=AAGoAAAAAAAFAIo!&rf=viewer_4)
 
 ###进入build/bin/mian路径下
 
@@ -96,9 +96,9 @@
 
 ###$	ant -f runexample.xml -Dnumber=1
 
-![](7.3.jpg)
+![image](http://a1.qpic.cn/psb?/V11Pgt1G3j6NhZ/I.B4nfQlIrCFr*yhA46GYEH748ivCPEwfUur7S3bVA0!/b/dPYAAAAAAAAA&bo=xQI6AAAAAAAFAN4!&rf=viewer_4)
 
-![](7.4.jpg)
+![image](http://a3.qpic.cn/psb?/V11Pgt1G3j6NhZ/8lyYQPrDpcAlLAO9HtypF5aMdBCBBPCzjldJ3T4R1zU!/b/dK0AAAAAAAAA&bo=4ABGAAAAAAAFAIU!&rf=viewer_4)
 
 #实验感想
 
